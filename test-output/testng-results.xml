@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14301" started-at="2021-04-11T11:44:37Z" finished-at="2021-04-11T11:44:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14301" started-at="2021-04-11T11:44:37Z" finished-at="2021-04-11T11:44:52Z">
+      <class name="com.selenium.testng.ParallelExecution">
+        <test-method status="PASS" signature="launchgoogle()[pri:0, instance:com.selenium.testng.ParallelExecution@548b7f67]" name="launchgoogle" duration-ms="11924" started-at="2021-04-11T11:44:37Z" finished-at="2021-04-11T11:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchgoogle -->
+        <test-method status="PASS" signature="launchAmzon()[pri:0, instance:com.selenium.testng.ParallelExecution@548b7f67]" name="launchAmzon" duration-ms="14238" started-at="2021-04-11T11:44:37Z" finished-at="2021-04-11T11:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAmzon -->
+        <test-method status="PASS" signature="launchtestsite()[pri:0, instance:com.selenium.testng.ParallelExecution@548b7f67]" name="launchtestsite" duration-ms="11752" started-at="2021-04-11T11:44:37Z" finished-at="2021-04-11T11:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchtestsite -->
+      </class> <!-- com.selenium.testng.ParallelExecution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
